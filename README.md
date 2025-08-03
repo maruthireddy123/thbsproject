@@ -1,4 +1,4 @@
-Sample Nginx WebApp
+<img width="1240" height="574" alt="image" src="https://github.com/user-attachments/assets/f71ae00c-2e24-42c5-bd6f-eadec6ab1ce1" />Sample Nginx WebApp
 Docker based Simple Web Application on Nginx server
 
 For Education Use only
@@ -18,3 +18,6 @@ Spinning the Image:
 Clone or download the repository
 run docker-compose up -d
 Your website should be up & running on http://localhost:8000/
+
+
+<img width="1240" height="574" alt="image" src="https://github.com/user-attachments/assets/31ab65f0-b059-4087-8db2-41cb44810ec4" />
