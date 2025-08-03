@@ -1,4 +1,4 @@
-<img width="1240" height="574" alt="image" src="https://github.com/user-attachments/assets/f71ae00c-2e24-42c5-bd6f-eadec6ab1ce1" />Sample Nginx WebApp
+Sample Nginx WebApp
 Docker based Simple Web Application on Nginx server
 
 For Education Use only
