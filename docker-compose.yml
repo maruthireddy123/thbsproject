@@ -1,0 +1,9 @@
+version: "3"
+services:
+    website:
+        container_name: nginx-app
+        image: nginx:latest
+        ports:
+            - "8000:80"
+        volumes:
+            - ./origin:/usr/share/nginx/html
