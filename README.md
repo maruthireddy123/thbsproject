@@ -1,4 +1,5 @@
 Sample Nginx WebApp
+
 Docker based Simple Web Application on Nginx server
 
 For Education Use only
