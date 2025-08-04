@@ -1,5 +1,5 @@
 # Use a lightweight official Nginx base image
-FROM nginx:alpine
+FROM public.ecr.aws/nginx/nginx:alpine
 
 # Remove the default nginx web files
 RUN rm -rf /usr/share/nginx/html/*
